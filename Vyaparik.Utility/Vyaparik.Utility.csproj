@@ -7,11 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Aoxe.MailKit" Version="2025.1.2" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Services\Email\" />
+    <Folder Include="Helpers\" />
   </ItemGroup>
 
 </Project>
